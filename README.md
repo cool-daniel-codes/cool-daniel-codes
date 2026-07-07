@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**cool-daniel-codes/cool-daniel-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I Do
+- 🌐 Building responsive websites and interactive web applications.
+- 🎨 Crafting clean layouts using HTML, CSS, and Tailwind.
+- ⚡ Developing dynamic frontend and backend logic with JavaScript and Node.js.
 
-Here are some ideas to get you started:
+### 📚 What I'm Learning
+- 🧠 Mastering advanced asynchronous JavaScript and backend integration.
+- ⚙️ Optimizing web performance and exploring modern deployment workflows.
+- 🎨 Pushing the limits of utility-first styling with Tailwind CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect
+- 🤝 Open for collaborations on open-source web projects.
+- 💬 It's recommended to follow me on Instagram to contact me because im active there
+- 📱 Check out my bio right above for my direct contact links!
+
+
+
