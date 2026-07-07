@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Daniel 👋
 
 ### 🚀 What I Do
 - 🌐 Building responsive websites and interactive web applications.
